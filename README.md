@@ -46,3 +46,4 @@ For running Arduino for testing use --ard.
 python train.py -m model_name -s 500 --ard
 
 ## Output:
+https://github.com/stuti2403/Traffic-Light-Management-system-using-RL-and-SUMO/blob/main/output.mp4
